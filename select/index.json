@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "願いごと",
+  "base_artist": "マルシィ",
+  "createdAt": "2025-12-01T12:39:15.842973Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "願いごと",
+      "artist": "Hirai, Dai",
+      "has_synced": true,
+      "path": "select/01_願いごと_Hirai,_Dai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "願いごと",
+      "artist": "HIRAIDAI",
+      "has_synced": true,
+      "path": "select/02_願いごと_HIRAIDAI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "8. 願いごと",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/03_8._願いごと_手嶌葵.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "願いごと一つキミへ",
+      "artist": "Lil'B",
+      "has_synced": false,
+      "path": "select/pl_01_願いごと一つキミへ_Lil'B.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "願いごと一つキミへ",
+      "artist": "Lil'B",
+      "has_synced": false,
+      "path": "select/pl_02_願いごと一つキミへ_Lil'B.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "願いごと一つキミへ",
+      "artist": "Lil'B",
+      "has_synced": false,
+      "path": "select/pl_03_願いごと一つキミへ_Lil'B.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "願いごとの持ち腐れ",
+      "artist": "Lil'B",
+      "has_synced": false,
+      "path": "select/pl_04_願いごとの持ち腐れ_Lil'B.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "願いごとの持ち腐れ",
+      "artist": "Lil'B",
+      "has_synced": false,
+      "path": "select/pl_05_願いごとの持ち腐れ_Lil'B.txt"
+    }
+  ]
+}
